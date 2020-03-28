@@ -1,7 +1,7 @@
 
 # ElasticSearch Workshop
 Hosted by Amine M. Boulouma, contact and questions: [amine.boulouma.com](https://amine.boulouma.com)
-- [Live Tutorial recording](https://www.youtube.com/watch?v=ma3BC8aPBfE&t=479s)
+- [Learn ElasticSearch with Python in 25 minutes (workshop)](https://www.youtube.com/watch?v=ma3BC8aPBfE&t=479s)
 - [Source code](https://github.com/amboulouma/elasticsearch-workshop)
 - [ElasticSearch installation](https://www.elastic.co/guide/en/apm/get-started/current/install-elasticsearch.html)
 - [ElasticSearch python client](https://elasticsearch-py.readthedocs.io/en/master/)
