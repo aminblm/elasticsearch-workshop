@@ -1,7 +1,7 @@
 
 # ElasticSearch Workshop
 Hosted by Amine M. Boulouma, contact and questions: [amine.boulouma.com](https://amine.boulouma.com)
-- [Source code](https://github.com/amboulouma/elasticssearch-workshop)
+- [Source code](https://github.com/amboulouma/elasticsearch-workshop)
 - [ElasticSearch installation](https://www.elastic.co/guide/en/apm/get-started/current/install-elasticsearch.html)
 - [ElasticSearch python client](https://elasticsearch-py.readthedocs.io/en/master/)
 
